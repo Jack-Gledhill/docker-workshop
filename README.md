@@ -6,6 +6,8 @@ Hello and welcome! Here, you'll find resources for the practical part of the 202
 
 Before you can begin the practical, you'll need to make sure you have Docker Desktop installed and running on your machine. If you don't already have it, you can download it [here](https://www.docker.com/products/docker-desktop/).
 
+You can also find the slides for the workshop [here](https://docs.google.com/presentation/d/1cGJq96nYjEv6e9qEKliwDzeD01LFHF_7/edit?usp=sharing&ouid=117861215468504628058&rtpof=true&sd=true) (university login required)!
+
 ## Task 1: Basic Flask App
 
 First, we're going to setup a basic Python Flask application using Docker. Flask is a web framework for Python, allowing you to run a simple web server on your local machine with very little code.
